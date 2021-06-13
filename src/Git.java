@@ -5,8 +5,7 @@ public class Git {
 	{
 		System.out.println("Original");
 		System.out.println("sai");
-		System.out.println("kalyan");
-		System.out.println("bye friends");
+		System.out.println("teja");
 		
 
 	}
